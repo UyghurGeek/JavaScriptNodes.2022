@@ -1,0 +1,14 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 01-体验js.html",
+            "file": "e:\\计算机学习课程\\JavaScript零基础入门\\JavaScript基础—资料\\day01\\day01\\代码\\01-体验js.html"
+        }
+    ]
+}
